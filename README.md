@@ -1,11 +1,10 @@
 
 
-## 1. BUILD HOME (static)
+## 1. LANDING (HOME PAGE)
 
-- the project [preview] (http://irapristupa.github.io/javascript/Grunt,%20SASS,%20slider,%20accordion,%20lodash/index.html) 	 
-- the [structure] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/javascript/Grunt%2C%20SASS%2C%20slider%2C%20accordion%2C%20lodash) of the project
+See the project [preview] (http://irapristupa.github.io/javascript/Grunt,%20SASS,%20slider,%20accordion,%20lodash/index.html) and the [structure] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/javascript/Grunt%2C%20SASS%2C%20slider%2C%20accordion%2C%20lodash) of the project
 
-### Technologies used: 
+### Technologies used:
 - HTML5
 - CSS3
 - BEM
@@ -15,12 +14,12 @@
 - Grunt
 
 
-## 2. SHOPPING CART (responsive)
+## 2. SHOPPING CART
 
-- the project [**preview**] (http://irapristupa.github.io/decorist/index.html)      
-- the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/decorist) of the project
+See the project [**preview**] (http://irapristupa.github.io/decorist/index.html) and the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/decorist) of the project
 
 ### Technologies used: 
+- Responsive design
 - HTML5
 - CSS3
 - JavaScript(JQuery)
@@ -28,12 +27,12 @@
 - SASS
 - Grunt
 
-## 3. URLAUBSGLÜCK (responsive)
+## 3. RESPONSIVE LANDING (HTML, CSS, JS)
 		
-- the project [**preview**] (http://irapristupa.github.io/javascript/exam%20JS/index.html)
-- the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/javascript/exam%20JS) of the project
+See the project [**preview**] (http://irapristupa.github.io/javascript/exam%20JS/index.html) and the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/javascript/exam%20JS) of the project
 
 ### Technologies used: 
+- Responsive design
 - HTML5
 - CSS3
 - BEM
@@ -45,11 +44,11 @@
 - SASS
 - Grunt
 
-## 4. PINGBULLER (responsive)
-- the project [**preview**] (http://irapristupa.github.io/markup/exam%20(pingbuller)/index.html)
-- the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/markup/exam%20(pingbuller)) of the project
+## 4. RESPONSIVE LANDIND (HTML, CSS)
+See the project [**preview**] (http://irapristupa.github.io/markup/exam%20(pingbuller)/index.html) and the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/markup/exam%20(pingbuller)) of the project
 
 ### Technologies used: 
+- Responsive design
 - HTML5
 - CSS3
 - BEM
@@ -57,10 +56,9 @@
 - PixelPerfect (Chrome the Latest)
 - Graceful degradation
 
-## 5. ZAZOR (static)
+## 5. PIXEL PERFECT LANDING 
 
-- the project [**preview**] (http://irapristupa.github.io/markup/zazor%20products%20(pixel-perfect)/index.html)
-- the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/markup/zazor%20products%20(pixel-perfect)) of the project
+See the project [**preview**] (http://irapristupa.github.io/markup/zazor%20products%20(pixel-perfect)/index.html) and the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/markup/zazor%20products%20(pixel-perfect)) of the project
 
 ### Technologies used: 
 - HTML5
@@ -69,9 +67,8 @@
 - PixelPerfect (Chrome the Latest)
 
 
-## 6. TO-DO LIST (static)
-- the project [**preview**] (http://irapristupa.github.io/javascript/ToDoList%20(MVC,%20require.js)/index.html)     
-- the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/javascript/ToDoList%20(MVC%2C%20require.js)) of the project
+## 6. TO-DO LIST
+See the project [**preview**] (http://irapristupa.github.io/javascript/ToDoList%20(MVC,%20require.js)/index.html) and the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/javascript/ToDoList%20(MVC%2C%20require.js)) of the project
 
 ### Technologies used: 
 - HTML5
@@ -80,10 +77,9 @@
 - MVC
 - Require.js
 
-##  7. TEST WITH ANSWERS (JS)
+##  7. TEST WITH CHECKING (JS)
 
-- the project [**preview**] (http://irapristupa.github.io/javascript/9test%20(with%20results)/index.html);
-- the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/javascript/9test%20(with%20results)) of the project;
+See the project [**preview**] (http://irapristupa.github.io/javascript/9test%20(with%20results)/index.html) and the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/javascript/9test%20(with%20results)) of the project
 
 ### Technologies used: 
 - HTML5
