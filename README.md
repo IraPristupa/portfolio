@@ -66,8 +66,21 @@ See the project [**preview**] (http://irapristupa.github.io/markup/zazor%20produ
 - BEM
 - PixelPerfect (Chrome the Latest)
 
+## 6. HTML5 UI IMPLEMENTATION (with native JS)
+		
+See the project [**preview**] (http://irapristupa.github.io/lits/index.html) and the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/lits) of the project
 
-## 6. TO-DO LIST
+### Technologies used: 
+- Responsive design
+- HTML5
+- CSS3
+- JavaScript
+- BEM
+- SASS
+- Grunt
+
+
+## 7. TO-DO LIST
 See the project [**preview**] (http://irapristupa.github.io/javascript/ToDoList%20(MVC,%20require.js)/index.html) and the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/javascript/ToDoList%20(MVC%2C%20require.js)) of the project
 
 ### Technologies used: 
@@ -77,7 +90,7 @@ See the project [**preview**] (http://irapristupa.github.io/javascript/ToDoList%
 - MVC
 - Require.js
 
-##  7. TEST WITH CHECKING (JS)
+##  8. TEST WITH CHECKING (JS)
 
 See the project [**preview**] (http://irapristupa.github.io/javascript/9test%20(with%20results)/index.html) and the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/javascript/9test%20(with%20results)) of the project
 
