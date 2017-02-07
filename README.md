@@ -1,8 +1,7 @@
 
-
 ## 1. LANDING (HOME PAGE)
 
-See the project [preview] (http://irapristupa.github.io/javascript/Grunt,%20SASS,%20slider,%20accordion,%20lodash/index.html) and the [structure] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/javascript/Grunt%2C%20SASS%2C%20slider%2C%20accordion%2C%20lodash) of the project
+See the project [**preview**] (http://irapristupa.github.io/javascript/Grunt,%20SASS,%20slider,%20accordion,%20lodash/index.html) and the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/javascript/Grunt%2C%20SASS%2C%20slider%2C%20accordion%2C%20lodash) of the project
 
 ### Technologies used:
 - HTML5
@@ -44,7 +43,24 @@ See the project [**preview**] (http://irapristupa.github.io/javascript/exam%20JS
 - SASS
 - Grunt
 
-## 4. RESPONSIVE LANDIND (HTML, CSS)
+## 4. RESPONSIVE LANDING (HTML, CSS, JS)
+
+See the project [**preview**] (http://irapristupa.github.io/restaurant/index.html) and the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/restaurant) of the project
+
+### Technologies used:
+- Responsive design
+- Cross-browser Compatibility
+- Mobile First + Graceful degradation
+- HTML5
+- CSS3
+- BEM
+- JavaScript(JQuery)
+- Lodash.js
+- Flickity carousel
+- SASS
+- Grunt
+
+## 5. RESPONSIVE LANDIND (HTML, CSS)
 See the project [**preview**] (http://irapristupa.github.io/markup/exam%20(pingbuller)/index.html) and the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/markup/exam%20(pingbuller)) of the project
 
 ### Technologies used: 
@@ -56,7 +72,7 @@ See the project [**preview**] (http://irapristupa.github.io/markup/exam%20(pingb
 - PixelPerfect (Chrome the Latest)
 - Graceful degradation
 
-## 5. PIXEL PERFECT LANDING 
+## 6. PIXEL PERFECT LANDING 
 
 See the project [**preview**] (http://irapristupa.github.io/markup/zazor%20products%20(pixel-perfect)/index.html) and the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/markup/zazor%20products%20(pixel-perfect)) of the project
 
@@ -66,7 +82,7 @@ See the project [**preview**] (http://irapristupa.github.io/markup/zazor%20produ
 - BEM
 - PixelPerfect (Chrome the Latest)
 
-## 6. HTML5 UI IMPLEMENTATION (with native JS)
+## 7. HTML5 UI IMPLEMENTATION (with native JS)
 		
 See the project [**preview**] (http://irapristupa.github.io/lits/index.html) and the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/lits) of the project
 
@@ -80,7 +96,7 @@ See the project [**preview**] (http://irapristupa.github.io/lits/index.html) and
 - Grunt
 
 
-## 7. TO-DO LIST
+## 8. TO-DO LIST
 See the project [**preview**] (http://irapristupa.github.io/javascript/ToDoList%20(MVC,%20require.js)/index.html) and the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/javascript/ToDoList%20(MVC%2C%20require.js)) of the project
 
 ### Technologies used: 
@@ -90,7 +106,7 @@ See the project [**preview**] (http://irapristupa.github.io/javascript/ToDoList%
 - MVC
 - Require.js
 
-##  8. TEST WITH CHECKING (JS)
+##  9. TEST WITH CHECKING (JS)
 
 See the project [**preview**] (http://irapristupa.github.io/javascript/9test%20(with%20results)/index.html) and the [**structure**] (https://github.com/IraPristupa/IraPristupa.github.io/tree/master/javascript/9test%20(with%20results)) of the project
 
